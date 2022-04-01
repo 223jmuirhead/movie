@@ -1,0 +1,62 @@
+body {
+  background-color: rgb(71, 71, 71);
+}
+
+
+p {
+  color: rgb(255, 255, 255);
+  font-size: 20px
+}
+
+ul {
+    font-size: 20px
+}
+
+.white {
+    color: rgb(255, 255, 255);
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+h2 {
+  text-align: center;
+}
+
+.secondary {
+  color: rgb(200, 200, 200);
+}
+
+.side {
+  background-color: rgb(100, 100, 100);
+}
+
+
+a {
+  color: rgb(0, 60, 180);
+}
+
+
+.computer {
+  background-image: url(https://static1.srcdn.com/wordpress/wp-content/uploads/2020/02/Back-to-the-Future-Marty-McFly-Jennifer-Doc-Brown.jpg?q=50&fit=crop&w=943&h=500&dpr=1.5)
+
+}
+
+.square {
+  width: 150px;
+  height: 150px;
+}
+
+.notsquare {
+  width:100%;
+  border-style: groove;
+  border-color: white;
+  border-width: 10px;
+}
+
+.red {
+  background-color: rgb(100, 100, 100);
+  color: white;
+}
